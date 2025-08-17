@@ -42,7 +42,8 @@
 
 <h3 align="left">LeetCode Stats:</h3>
 
-<p align="left">
+<div>
+  <p align="left">
   <a href="https://leetcode.com/u/ayushkr282003/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/ayushkr282003?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
@@ -53,6 +54,7 @@
     <img src="https://leetcard.jacoblin.cool/ayushkr282003?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
