@@ -48,7 +48,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="right">
   <a href="https://leetcode.com/u/Ayushkr926/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/ayushkr282003?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
