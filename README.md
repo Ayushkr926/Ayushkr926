@@ -9,11 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=anuj846k&label=Profile%20views&color=0e75b6&style=flat" alt="anuj846k" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/anuj846kk" target="blank">
-    <img src="https://img.shields.io/twitter/follow/anuj846kk?logo=twitter&style=for-the-badge" alt="anuj846kk" />
-  </a>
-</p>
+
 
 - 🔭 I’m currently working on DigiPahchan, a project designed to help people easily locate and identify their precious belongings.**
 
@@ -21,7 +17,7 @@
 
 - 💬 Ask me about: **React.js, Supabase, Next.js, Node.js, APIs, React Native.**
 
-- 📫 How to reach me: **anuj846k@gmail.com**
+- 📫 How to reach me: **ayushkr282003@gmail.com**
 
 - ⚡ Fun fact: **I thrive in focused, goal-oriented environments and am driven by meaningful, impactful work.**
 
@@ -35,12 +31,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anuj846kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuj846kk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anuj-kumar-6aa13b264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-kumar-6aa13b264" height="30" width="40" /></a>
-<a href="https://instagram.com/anuj846k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuj846k" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/ayush-kumar-773412299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-kumar-6aa13b264" height="30" width="40" /></a>
+<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuj846k" height="30" width="40" /></a>
 </p>
 
 ---
+
+---
+
+<h3 align="left">LeetCode Stats:</h3>
+
+<p align="left">
+  <a href="https://leetcode.com/u/ayushkr282003/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ayushkr282003?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
