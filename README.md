@@ -1,4 +1,4 @@
-![Header](./headerX.png)
+![Header](./github-header-image.png)
 
 <h1 align="center" style="font-size: 68px;">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center" style="font-size: 46px;">I'm a passionate app developer interested in creating awesome applications</h3>
