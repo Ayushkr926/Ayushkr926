@@ -1,112 +1,93 @@
-![Header](./headerX.png)
-
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">Flutter App Developer | Building Scalable & Impactful Mobile Applications</h3>
+<h3 align="center">Flutter App Developer | B.Tech CSE (Data Science)</h3>
 
-<img align="right" alt="Coding" width="380" src="./coding.gif"/>
+<p align="center">
+Building scalable, production-ready mobile applications with Flutter & modern backend technologies
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anuj846k&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <a href="mailto:ayushkr282003@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/ayush-kumar-773412299/">LinkedIn</a> •
+  <a href="https://github.com/Ayushkr926">GitHub</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- 🚀 **Flutter App Developer** focused on building high-quality, scalable mobile applications  
-- 🔭 Currently working on **DigiPahchan** — a platform to help users **identify, track, and recover valuable belongings**
-- 💼 Actively working in a **production-level Flutter application**
-- 🌱 Learning **Next.js** and **Backend Development (Node.js & Express)**
-- 💬 Ask me about **Flutter, REST APIs, Firebase, Supabase, App Architecture**
-- 📫 Reach me at **ayushkr282003@gmail.com**
-- ⚡ Fun fact: I perform best in **focused, goal-driven teams** and love solving real-world problems
+I am a **results-driven B.Tech CSE (Data Science) student** at **NIET, Greater Noida (Batch 2027)** with strong foundations in **Data Structures, Algorithms, and modern app development**.  
+
+Currently working as a **Flutter Developer Intern**, contributing to a **live production mobile application**. I enjoy building clean, scalable code, collaborating in agile teams, and continuously improving my engineering skills.
 
 ---
 
-## 🛠 Tech Stack (Flutter-Centric)
+## 💼 Experience
 
-### 📱 Mobile Development
-- **Flutter (Dart)**
-- Firebase (Auth, Firestore, Storage)
-- REST API Integration
-- Clean Architecture & State Management
+### 🚀 Flutter Developer Intern — **UnJob.ai**  
+**Sep 2025 – Present**
 
-### 🌐 Web & Backend
-- JavaScript
-- Node.js & Express.js
-- MongoDB
-- Supabase
-- Next.js (Learning)
-
-### 📊 Data & ML (Foundational)
-- Python
-- NumPy, Pandas
-- Scikit-learn
-- TensorFlow (Basics)
+- Designed, developed, and deployed the **UnJob.ai mobile application**, now live on the **Google Play Store**
+- Built cross-platform features using **Flutter** with **Firebase** and **Node.js backend**
+- Integrated **RESTful APIs** for:
+  - User authentication  
+  - Real-time gig posting  
+  - Media upload & profile management
+- Followed **modular architecture**, version control, and code reviews
+- Optimized app performance for **scalability and smooth UX**
+- Collaborated with designers, backend developers, and product teams
 
 ---
 
-## 📈 LeetCode Stats
+## 🧩 Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://leetcode.com/u/ayushkr282003/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/ayushkr282003?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/u/Ayushkr926/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/Ayushkr926?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 📱 UnJob.ai (Flutter, Firebase, Node.js) — *Ongoing*
+- Full-stack freelancing platform with gig posting and live updates
+- Focused on scalable architecture and production-grade UI/UX
+
+### 🔐 DigiPahchan (Flutter, Firebase)
+- QR-based identification system for vehicles and valuables
+- Secure Firebase backend with real-time owner notification
+- Asynchronous state management for smooth performance
+
+### 🎬 Movie Review App (Flutter, TMDb API)
+- Movie discovery app for trending & upcoming films
+- Optimized API calls using caching and lazy loading
 
 ---
 
-## 🚀 #30NitesOfCode
+## 🛠 Technical Skills
 
-📌 Improving consistency & problem-solving skills  
-👉 [Check my progress](https://www.codedex.io/@anuj846k70317/30-nites-of-code)
+### Languages
+- **Dart**, **C++**, **JavaScript**
+- Python (Basic), HTML, CSS
 
-![@anuj846k70317 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anuj846k70317)
+### Frameworks & Tools
+- **Flutter**, Firebase
+- Node.js, REST APIs
+- Git & GitHub
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-kumar-773412299/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
+### Core Competencies
+- Data Structures & Algorithms  
+- Mobile Application Development  
+- API Integration  
+- SDLC & Version Control  
+- Responsive UI Design  
 
 ---
 
-## 🧰 Languages & Tools
+## 🏆 Achievements
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</p>
+- Solved **700+ coding problems** on **LeetCode & GeeksforGeeks**
+- Participated in **Smart India Hackathon 2025** (App Development Domain)
+- Published multiple **open-source projects** on GitHub
 
 ---
 
-## 🏆 Holopin Badges
+## 📈 Coding Profiles
 
-[![@devilcoder28's Holopin board](https://holopin.me/devilcoder28)](https://holopin.io/@devilcoder28)
+- 🔢 **LeetCode**: https://leetcode.com/u/ayushkr282003/
+- 💻 **GitHub**: https://github.com/Ayushkr926
 
 ---
 
-⭐ *Open to exciting Flutter roles, internships, and impactful app projects*
+⭐ *Open to internships, full-time roles, and impactful Flutter projects*
