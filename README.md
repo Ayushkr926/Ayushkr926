@@ -1,7 +1,7 @@
 ![Header](./headerX.png)
 
 <h1 align="center" style="font-size: 68px;">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center" style="font-size: 46px;">I'm a passionateapp developer interested in creating awesome applications</h3>
+<h3 align="center" style="font-size: 46px;">I'm a passionate app developer interested in creating awesome applications</h3>
 
 <img alt="Coding" align="right" width="400" src="./coding.gif"/>
 
@@ -11,15 +11,15 @@
 
 
 
-- 🔭 I’m currently working on DigiPahchan, a project designed to help people easily locate and identify their precious belongings.**
+- 🔭 Currently working as a **Flutter App Developer Intern at UnJob.ai**, contributing to a live production mobile application.
 
-- 🌱 I’m currently learning: **Next.js, along with backend development using Node.js & Express.**
+- 🌱 Actively improving skills in **Flutter architecture, Firebase, REST API integration**, and backend fundamentals with **Node.js & Express**.
 
-- 💬 Ask me about: **React.js, Supabase, Next.js, Node.js, APIs, React Native.**
+- 💬 Ask me about **Flutter, Mobile App Development, Firebase, REST APIs, State Management**, and building scalable apps.
 
-- 📫 How to reach me: **ayushkr282003@gmail.com**
+- 📫 Reach me at **ayushkr282003@gmail.com**
 
-- ⚡ Fun fact: **I thrive in focused, goal-oriented environments and am driven by meaningful, impactful work.**
+- ⚡ Fun fact: I enjoy turning complex requirements into smooth, user-friendly mobile experiences and thrive in fast-paced product teams.
 
 ---
 
