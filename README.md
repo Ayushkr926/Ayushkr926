@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, I'm Ayush Kumar 👋
+# Hey, I'm Ayush Tiwari 👋
 
 **Flutter App Developer** · Building smooth, scalable mobile experiences from idea to production
 
