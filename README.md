@@ -1,116 +1,99 @@
 ![Header](./headerpic.png)
 
-<h1 align="center" style="font-size: 68px;">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center" style="font-size: 46px;">I'm a passionate app developer interested in creating awesome applications</h3>
+<div align="center">
 
-<img alt="Coding" align="right" width="400" src="./coding.gif"/>
+# Hey, I'm Ayush Kumar 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anuj846k&label=Profile%20views&color=0e75b6&style=flat" alt="anuj846k" />
-</p>
+**Flutter App Developer** · Building smooth, scalable mobile experiences from idea to production
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-773412299/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayushkr282003/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ayushkr282003@gmail.com)
+[![Codedex](https://img.shields.io/badge/30NitesOfCode-6C3EF4?style=flat&logo=codewars&logoColor=white)](https://www.codedex.io/@anuj846k70317/30-nites-of-code)
+![Profile Views](https://komarev.com/ghpvc/?username=anuj846k&style=flat&color=0e75b6)
 
-
-- 🔭 Currently working as a **Flutter App Developer Intern at UnJob.ai**, contributing to a live production mobile application.
-
-- 🌱 Actively improving skills in **Flutter architecture, Firebase, REST API integration**, and backend fundamentals with **Node.js & Express**.
-
-- 💬 Ask me about **Flutter, Mobile App Development, Firebase, REST APIs, State Management**, and building scalable apps.
-
-- 📫 Reach me at **ayushkr282003@gmail.com**
-
-- ⚡ Fun fact: I enjoy turning complex requirements into smooth, user-friendly mobile experiences and thrive in fast-paced product teams.
+</div>
 
 ---
 
-## #30NitesOfCode:
-[Check out my progress!](https://www.codedex.io/@anuj846k70317/30-nites-of-code)  
-![@anuj846k70317 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anuj846k70317)
+## 🟢 Currently
+
+- 📱 **Flutter App Developer Intern @ [UnJob.ai](https://unjob.ai)** — contributing to a live production mobile application
+- 🔥 Deepening skills in **Flutter architecture · Firebase · REST APIs · Node.js & Express**
+- 🧩 Active on [#30NitesOfCode](https://www.codedex.io/@anuj846k70317/30-nites-of-code) — building every night
+- ⚡ I love turning complex requirements into smooth, user-friendly mobile experiences and thrive in fast-paced product teams
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🛠️ Tech Stack
 
-<a href="https://www.linkedin.com/in/ayush-kumar-773412299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-kumar-6aa13b264" height="30" width="40" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuj846k" height="30" width="40" /></a>
-</p>
+### 📱 Mobile (Primary Focus)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+![State Management](https://img.shields.io/badge/State_Management-6C3EF4?style=flat&logo=flutter&logoColor=white)
+
+### 🌐 Backend & Web
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🧠 Languages & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+---
+
+## 💬 Ask Me About
+
+`flutter` `firebase` `dart` `rest-api` `state-management` `bloc` `provider` `mobile-ui` `node.js` `scalable-apps`
 
 ---
 
----
+## 📊 GitHub Stats
 
-<h3 align="left">LeetCode Stats:</h3>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anuj846k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj846k&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://leetcode.com/u/ayushkr282003/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/ayushkr282003?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/u/Ayushkr926/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/Ayushkr926?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="ml" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a> 
-</p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj846k&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
-## Holopin Badges 👀  
+
+## 🧠 LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/ayushkr282003/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/ayushkr282003?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats - ayushkr282003" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Ayushkr926/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Ayushkr926?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats - Ayushkr926" />
+  </a>
+</div>
+
+---
+
+## 🏅 Holopin Badges
 
 [![@devilcoder28's Holopin board](https://holopin.me/devilcoder28)](https://holopin.io/@devilcoder28)
- update my code to make it beeter read me for my current job and my app flutter domain
+
+---
+
+## #30NitesOfCode Progress
+
+[![@anuj846k70317 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=anuj846k70317)](https://www.codedex.io/@anuj846k70317/30-nites-of-code)
+
+---
+
+<div align="center">
+  <i>⚡ "Turning complex requirements into smooth, user-friendly mobile experiences — one widget at a time."</i>
+</div>
