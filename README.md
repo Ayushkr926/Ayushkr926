@@ -9,8 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-773412299/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ayushkr282003/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ayushkr282003@gmail.com)
-[![Codedex](https://img.shields.io/badge/30NitesOfCode-6C3EF4?style=flat&logo=codewars&logoColor=white)](https://www.codedex.io/@anuj846k70317/30-nites-of-code)
-![Profile Views](https://komarev.com/ghpvc/?username=anuj846k&style=flat&color=0e75b6)
+[![Codedex](https://img.shields.io/badge/30NitesOfCode-6C3EF4?style=flat&logo=codewars&logoColor=white)](https://www.codedex.io/@Ayushkr926/30-nites-of-code)
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushkr926&style=flat&color=0e75b6)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 - 📱 **Flutter App Developer Intern @ [UnJob.ai](https://unjob.ai)** — contributing to a live production mobile application
 - 🔥 Deepening skills in **Flutter architecture · Firebase · REST APIs · Node.js & Express**
-- 🧩 Active on [#30NitesOfCode](https://www.codedex.io/@anuj846k70317/30-nites-of-code) — building every night
+- 🧩 Active on [#30NitesOfCode](https://www.codedex.io/@Ayushkr926/30-nites-of-code) — building every night
 - ⚡ I love turning complex requirements into smooth, user-friendly mobile experiences and thrive in fast-paced product teams
 
 ---
