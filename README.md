@@ -1,3 +1,4 @@
+![Header](./head.png)
 <!-- Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:40C4FF,100:0175C2&height=200&section=header&text=Ayush%20Tiwari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Flutter%20App%20Developer%20%E2%9A%A1&descAlignY=60&descSize=18&animation=fadeIn" />
 
