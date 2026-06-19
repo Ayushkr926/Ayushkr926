@@ -1,4 +1,4 @@
-![Header](./ChatGPT Image Jun 19, 2026, 03_37_47 PM.png)
+![Header](./head.png)
 
 <div align="center">
 
